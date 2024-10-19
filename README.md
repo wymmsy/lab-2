@@ -28,4 +28,5 @@
 ```printf "%08d.%08d.%08d.%08d\n" $(bc <<< "obase=2;$a") $(bc <<< "obase=2;$b") $(bc <<< "obase=2;$c") $(bc <<< "obase=2;$d")```  
   
 Итоговый вариант программы и результат запуска  
+  
 ![Screenshot from 2024-10-19 15-26-23](https://github.com/user-attachments/assets/da963a81-8040-4aaa-b6e4-99424d2d6c7f)
